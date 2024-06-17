@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/中大/面向领域的并行数值方法/parallel-numerical-methods-final/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\G__~1.EXE   -g -std=gnu++14 -o CMakeFiles\\PoissonSolver.dir\\NumericalMesh\\PoissonSolver\\src\\main.cpp.obj -c D:\\中大\\面向领域的并行数值方法\\parallel-numerical-methods-final\\NumericalMesh\\PoissonSolver\\src\\main.cpp",
+  "file": "D:/中大/面向领域的并行数值方法/parallel-numerical-methods-final/NumericalMesh/PoissonSolver/src/main.cpp",
+  "output": "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.obj"
+},
+{
+  "directory": "D:/中大/面向领域的并行数值方法/parallel-numerical-methods-final/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\G__~1.EXE   -g -std=gnu++14 -o CMakeFiles\\PoissonSolver.dir\\NumericalMesh\\PoissonSolver\\src\\Mesh.cpp.obj -c D:\\中大\\面向领域的并行数值方法\\parallel-numerical-methods-final\\NumericalMesh\\PoissonSolver\\src\\Mesh.cpp",
+  "file": "D:/中大/面向领域的并行数值方法/parallel-numerical-methods-final/NumericalMesh/PoissonSolver/src/Mesh.cpp",
+  "output": "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.obj"
+}
+]
