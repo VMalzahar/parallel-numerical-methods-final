@@ -100,13 +100,13 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "NumericalMesh/PoissonSolver/src/main.cpp",
+			"path" : "PoissonSolver/src/main.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "NumericalMesh/PoissonSolver/src/Mesh.cpp",
+			"path" : "PoissonSolver/src/Mesh.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -9,5 +9,5 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add the source directory
-add_executable(PoissonSolver NumericalMesh/PoissonSolver/src/main.cpp NumericalMesh/PoissonSolver/src/Mesh.cpp)
+add_executable(PoissonSolver PoissonSolver/src/main.cpp PoissonSolver/src/Mesh.cpp)
 

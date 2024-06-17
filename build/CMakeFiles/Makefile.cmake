@@ -29,7 +29,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake"
-  "D:/中大/面向领域的并行数值方法/parallel-numerical-methods-final/CMakeLists.txt"
+  "D:/code/parallel-numerical-methods-final/CMakeLists.txt"
   "CMakeFiles/3.29.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.29.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.29.1/CMakeRCCompiler.cmake"

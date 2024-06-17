@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\中大\面向领域的并行数值方法\parallel-numerical-methods-final
+CMAKE_SOURCE_DIR = D:\code\parallel-numerical-methods-final
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\中大\面向领域的并行数值方法\parallel-numerical-methods-final\build
+CMAKE_BINARY_DIR = D:\code\parallel-numerical-methods-final\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\中大\面向领域的并行数值方法\parallel-numerical-methods-final\build\CMakeFiles D:\中大\面向领域的并行数值方法\parallel-numerical-methods-final\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\parallel-numerical-methods-final\build\CMakeFiles D:\code\parallel-numerical-methods-final\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\中大\面向领域的并行数值方法\parallel-numerical-methods-final\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\parallel-numerical-methods-final\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,53 +128,53 @@ PoissonSolver/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/build
 .PHONY : PoissonSolver/fast
 
-NumericalMesh/PoissonSolver/src/Mesh.obj: NumericalMesh/PoissonSolver/src/Mesh.cpp.obj
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.obj
+PoissonSolver/src/Mesh.obj: PoissonSolver/src/Mesh.cpp.obj
+.PHONY : PoissonSolver/src/Mesh.obj
 
 # target to build an object file
-NumericalMesh/PoissonSolver/src/Mesh.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.obj
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.cpp.obj
+PoissonSolver/src/Mesh.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/Mesh.cpp.obj
+.PHONY : PoissonSolver/src/Mesh.cpp.obj
 
-NumericalMesh/PoissonSolver/src/Mesh.i: NumericalMesh/PoissonSolver/src/Mesh.cpp.i
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.i
+PoissonSolver/src/Mesh.i: PoissonSolver/src/Mesh.cpp.i
+.PHONY : PoissonSolver/src/Mesh.i
 
 # target to preprocess a source file
-NumericalMesh/PoissonSolver/src/Mesh.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.i
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.cpp.i
+PoissonSolver/src/Mesh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/Mesh.cpp.i
+.PHONY : PoissonSolver/src/Mesh.cpp.i
 
-NumericalMesh/PoissonSolver/src/Mesh.s: NumericalMesh/PoissonSolver/src/Mesh.cpp.s
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.s
+PoissonSolver/src/Mesh.s: PoissonSolver/src/Mesh.cpp.s
+.PHONY : PoissonSolver/src/Mesh.s
 
 # target to generate assembly for a file
-NumericalMesh/PoissonSolver/src/Mesh.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.s
-.PHONY : NumericalMesh/PoissonSolver/src/Mesh.cpp.s
+PoissonSolver/src/Mesh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/Mesh.cpp.s
+.PHONY : PoissonSolver/src/Mesh.cpp.s
 
-NumericalMesh/PoissonSolver/src/main.obj: NumericalMesh/PoissonSolver/src/main.cpp.obj
-.PHONY : NumericalMesh/PoissonSolver/src/main.obj
+PoissonSolver/src/main.obj: PoissonSolver/src/main.cpp.obj
+.PHONY : PoissonSolver/src/main.obj
 
 # target to build an object file
-NumericalMesh/PoissonSolver/src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.obj
-.PHONY : NumericalMesh/PoissonSolver/src/main.cpp.obj
+PoissonSolver/src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/main.cpp.obj
+.PHONY : PoissonSolver/src/main.cpp.obj
 
-NumericalMesh/PoissonSolver/src/main.i: NumericalMesh/PoissonSolver/src/main.cpp.i
-.PHONY : NumericalMesh/PoissonSolver/src/main.i
+PoissonSolver/src/main.i: PoissonSolver/src/main.cpp.i
+.PHONY : PoissonSolver/src/main.i
 
 # target to preprocess a source file
-NumericalMesh/PoissonSolver/src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.i
-.PHONY : NumericalMesh/PoissonSolver/src/main.cpp.i
+PoissonSolver/src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/main.cpp.i
+.PHONY : PoissonSolver/src/main.cpp.i
 
-NumericalMesh/PoissonSolver/src/main.s: NumericalMesh/PoissonSolver/src/main.cpp.s
-.PHONY : NumericalMesh/PoissonSolver/src/main.s
+PoissonSolver/src/main.s: PoissonSolver/src/main.cpp.s
+.PHONY : PoissonSolver/src/main.s
 
 # target to generate assembly for a file
-NumericalMesh/PoissonSolver/src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.s
-.PHONY : NumericalMesh/PoissonSolver/src/main.cpp.s
+PoissonSolver/src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PoissonSolver.dir\build.make CMakeFiles/PoissonSolver.dir/PoissonSolver/src/main.cpp.s
+.PHONY : PoissonSolver/src/main.cpp.s
 
 # Help Target
 help:
@@ -185,12 +185,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... PoissonSolver
-	@echo ... NumericalMesh/PoissonSolver/src/Mesh.obj
-	@echo ... NumericalMesh/PoissonSolver/src/Mesh.i
-	@echo ... NumericalMesh/PoissonSolver/src/Mesh.s
-	@echo ... NumericalMesh/PoissonSolver/src/main.obj
-	@echo ... NumericalMesh/PoissonSolver/src/main.i
-	@echo ... NumericalMesh/PoissonSolver/src/main.s
+	@echo ... PoissonSolver/src/Mesh.obj
+	@echo ... PoissonSolver/src/Mesh.i
+	@echo ... PoissonSolver/src/Mesh.s
+	@echo ... PoissonSolver/src/main.obj
+	@echo ... PoissonSolver/src/main.i
+	@echo ... PoissonSolver/src/main.s
 .PHONY : help
 
 

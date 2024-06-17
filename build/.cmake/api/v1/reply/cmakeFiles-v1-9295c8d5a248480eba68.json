@@ -154,8 +154,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final/build",
-		"source" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final"
+		"build" : "D:/code/parallel-numerical-methods-final/build",
+		"source" : "D:/code/parallel-numerical-methods-final"
 	},
 	"version" : 
 	{

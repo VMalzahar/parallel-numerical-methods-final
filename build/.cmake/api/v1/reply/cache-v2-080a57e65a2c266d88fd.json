@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final/build"
+			"value" : "d:/code/parallel-numerical-methods-final/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/code/parallel-numerical-methods-final/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final"
+			"value" : "D:/code/parallel-numerical-methods-final"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1355,7 +1355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final/build"
+			"value" : "D:/code/parallel-numerical-methods-final/build"
 		},
 		{
 			"name" : "PoissonSolver_IS_TOP_LEVEL",
@@ -1379,7 +1379,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/\u4e2d\u5927/\u9762\u5411\u9886\u57df\u7684\u5e76\u884c\u6570\u503c\u65b9\u6cd5/parallel-numerical-methods-final"
+			"value" : "D:/code/parallel-numerical-methods-final"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

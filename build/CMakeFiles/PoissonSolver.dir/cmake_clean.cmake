@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.obj"
-  "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/Mesh.cpp.obj.d"
-  "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.obj"
-  "CMakeFiles/PoissonSolver.dir/NumericalMesh/PoissonSolver/src/main.cpp.obj.d"
+  "CMakeFiles/PoissonSolver.dir/PoissonSolver/src/Mesh.cpp.obj"
+  "CMakeFiles/PoissonSolver.dir/PoissonSolver/src/Mesh.cpp.obj.d"
+  "CMakeFiles/PoissonSolver.dir/PoissonSolver/src/main.cpp.obj"
+  "CMakeFiles/PoissonSolver.dir/PoissonSolver/src/main.cpp.obj.d"
   "PoissonSolver.exe"
   "PoissonSolver.exe.manifest"
   "PoissonSolver.pdb"
